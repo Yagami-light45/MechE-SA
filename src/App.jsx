@@ -8,7 +8,7 @@ import Blogs from './pages/Blogs';
 function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-gray-950 text-white">
+      <div className="min-h-screen bg-black text-white">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

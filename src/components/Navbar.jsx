@@ -9,7 +9,7 @@ const navLinks = [
 
 const Navbar = () => {
   return (
-    <nav className="sticky top-0 z-50 w-full bg-gray-900/80 backdrop-blur-md border-b border-gray-700/50">
+    <nav className="sticky top-0 z-50 w-full bg-black/60 backdrop-blur-md border-b border-white/5">
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo / Brand */}
         <NavLink
